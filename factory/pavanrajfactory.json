@@ -1,0 +1,9 @@
+{
+	"name": "pavanrajfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11462bcf-1663-4729-8f95-c3575ea29a76",
+		"tenantId": "33f096db-7e71-4297-a466-c49437844450"
+	}
+}
